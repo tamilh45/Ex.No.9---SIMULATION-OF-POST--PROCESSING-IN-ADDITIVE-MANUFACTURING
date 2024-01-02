@@ -46,8 +46,8 @@
 ![image](https://github.com/tamilh45/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150312761/8e0833d0-6f1c-476c-8337-767fa9f051cb)
 
 
-### Name: TAMIL PAVALAN M
-### Register Number:23013740
+### Name: SIVAKUMAR R
+### Register Number:23013501
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
